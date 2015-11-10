@@ -6,7 +6,7 @@
 %% for use in elixir projects
 
 card_acceptor_name_location() ->
-	?CARD_ACCEPTOR_NAME_LOCATION
+	?CARD_ACCEPTOR_NAME_LOCATION.
 
 message_authentication_code() ->
-	?MESSAGE_AUTHENTICATION_CODE
+	?MESSAGE_AUTHENTICATION_CODE.
