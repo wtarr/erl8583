@@ -3,6 +3,7 @@
         {description, "Erl8583 library for ISO 8583"},
         {vsn, "1.0.0"},
         {modules,   [
+                    erl8583_macro_map,
                     erl8583_convert,
                     erl8583_fields,
                     erl8583_fields_1993,
